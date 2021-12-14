@@ -1,0 +1,27 @@
+{
+  "name": {
+    "zh-cn": "Elephant MyCobot PI",
+    "en": "Elephant MyCobot PI"
+  },
+  "description": {
+    "zh-cn": "使用mycobot树莓派系列机械臂，学习UR构型六轴协作机械臂基础知识。",
+    "en": "Applicable to pin operation of all mycobot arms"
+  },
+  "author": "Elephant Robotics",
+  "email": "info@elephantrobotics.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "pinpong_huskylens",
+  "platform": ["win","mac","web","linux"],
+  "version": "0.0.1",
+  "asset": {
+	"python": {
+		"dir": "python/",
+		"main": "main.ts",
+		"dependencies": {
+        "pinpong": "3.6.5",
+        "pymycobot":"2.6.1"
+      }
+  }
+}
+}
