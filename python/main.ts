@@ -17,27 +17,6 @@ namespace pinpong_huskylens{
     }
 
     //% block="---"
-    export function noteSep(){}
-
-    //% block="设置底部[num3]号引脚输出[mode4]" blockType="command"
-    //% num3.shadow="number" num3.defl="0"
-    //% mode4.shadow="dropdown" mode4.options="mode4"
-    // export function set_basic_output(parameter:any,block:any){
-    //     let number = parameter.num3.code,
-    //     mode = parameter.mode4.code;
-
-    //     Generator.addCode(`mc.set_basic_output(${number},${mode})`)
-    // }
-
-    //% block="获取底部[num4]号引脚输入" blockType="reporter"
-    //% num4.shadow="number" num4.defl="0"
-    // export function get_basic_input(parameter:any,block:any){
-    //     let number = parameter.num4.code;
-
-    //     Generator.addCode(`mc.get_basic_input(${number})`)
-    // }
-
-    //% block="---"
     export function noteSep1(){}
 
     //% block="设置颜色，红[rValue]绿[gValue]蓝[bValue]" blockType="command"

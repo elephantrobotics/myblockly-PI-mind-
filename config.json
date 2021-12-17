@@ -11,7 +11,7 @@
   "email": "info@elephantrobotics.com",
   "license": "MIT",
   "isBoard": false,
-  "id": "pinpong_huskylens",
+  "id": "elephant mycobot PI",
   "platform": ["win","mac","web","linux"],
   "version": "0.0.1",
   "asset": {
