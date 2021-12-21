@@ -1,10 +1,10 @@
 {
   "name": {
-    "zh-cn": "Elephant MyCobot PI",
-    "en": "Elephant MyCobot PI"
+    "zh-cn": "大象协作机械臂-树莓派版本",
+    "en": "Elephant Cooperative Robot Arm - Raspberry PI version"
   },
   "description": {
-    "zh-cn": "使用mycobot树莓派系列机械臂，学习UR构型六轴协作机械臂基础知识。",
+    "zh-cn": "使用大象协作myCobot机械臂树莓派版本，学习六轴协作机械臂基础知识。",
     "en": "Applicable to pin operation of all mycobot arms"
   },
   "author": "Elephant Robotics",
